@@ -1,0 +1,233 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd crate.png
+bump  -bm 1 crate.png
+Ni 1.00
+newmtl lamp2:aiStandardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl lamp2:armchair:standardSurface2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl lamp2:armchair:standardSurface3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl lamp2:bookshelf1:lambert2SG
+illum 4
+Kd 0.50 0.12 0.12
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lamp2:bookshelf1:lambert4SG
+illum 4
+Kd 0.22 0.50 0.24
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lamp2:bookshelf1:lambert5SG
+illum 4
+Kd 0.50 0.41 0.32
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lamp2:bookshelf1:lambert6SG
+illum 4
+Kd 0.50 0.46 0.38
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lamp2:bookshelf1:lambert7SG
+illum 4
+Kd 0.06 0.06 0.04
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lamp2:bookshelf1:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd book1.jpg
+Ni 1.00
+newmtl lamp2:bookshelf1:lambert9SG
+illum 4
+Kd 0.31 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lamp2:bookshelf1:standardSurface2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl lamp2:bookshelf1:standardSurface3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl lamp2:bookshelf1:standardSurface4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl lamp2:couch:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanket.jpg
+bump  -bm 1 blanket.jpg
+Ni 1.00
+newmtl lamp2:couch:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd couchtext.jpg
+bump  -bm 1 blackcouch.jpg
+Ni 1.00
+newmtl lamp2:couch:standardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl lamp2:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd e3ddfae435b9ee4e4e9f96e91d05ce243029f287.jpg
+Ni 1.00
+newmtl lamp2:lambert6SG
+illum 4
+Kd 0.50 0.44 0.36
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lamp2:pCube1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rug_lambert1_BaseColor.png
+bump  -bm 1 rug_lambert1_Normal.png
+Ni 1.00
+newmtl lamp2:phong1SG
+illum 4
+Kd 0.24 0.24 0.24
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl lamp2:phong2SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl lamp2:speaker1:lambert1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd speaker7_lambert1_BaseColor.png
+map_Ka speaker7_lambert1_Metallic.png
+bump  -bm 1 speaker7_lambert1_Normal.png
+Ni 1.00
+newmtl lamp2:speaker1:lambert5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd speaker7_lambert6_BaseColor.png
+bump  -bm 1 speaker7_lambert6_Normal.png
+Ni 1.00
+newmtl lamp2:speaker1:phongE1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd speaker7_phongE1_Height.png
+map_Ka speaker7_phongE1_Metallic.tx
+bump  -bm 1 speaker7_phongE1_Normal.png
+Ni 1.00
+newmtl lamp2:speaker1:speaker_front
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd speaker7_speaker_front_BaseColor.png
+map_Ka speaker7_speaker_front_Height.png
+bump  -bm 1 speaker7_speaker_front_Normal.png
+Ni 1.00
+newmtl lamp2:speaker1:typeBlinn2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd speaker7_typeBlinn2_BaseColor.png
+bump  -bm 1 speaker7_typeBlinn2_Normal.png
+Ni 1.00
+newmtl lamp2:speasker:speaker1:lambert7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd speaker7_lambert6_BaseColor.png
+bump  -bm 1 speaker7_lambert6_Normal.png
+Ni 1.00
+newmtl lamp2:standardSurface2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl lamp2:standardSurface3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl lamp2:table:standardSurface2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl lamp2:table:standardSurface3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl table:standardSurface2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl table:standardSurface3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00

@@ -1,0 +1,1123 @@
+fileFormatVersion: 2
+guid: e7242dace014e7a4ca07974399b136bb
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: abdomen
+  - first:
+      1: 100002
+    second: antleft1
+  - first:
+      1: 100004
+    second: antleft2
+  - first:
+      1: 100006
+    second: antleft3
+  - first:
+      1: 100008
+    second: antright1
+  - first:
+      1: 100010
+    second: antright2
+  - first:
+      1: 100012
+    second: antright3
+  - first:
+      1: 100014
+    second: Bone004
+  - first:
+      1: 100016
+    second: Bone005
+  - first:
+      1: 100018
+    second: Bone006
+  - first:
+      1: 100020
+    second: Bone007
+  - first:
+      1: 100022
+    second: Bone008
+  - first:
+      1: 100024
+    second: Bone009
+  - first:
+      1: 100026
+    second: Bone010
+  - first:
+      1: 100028
+    second: Bone011
+  - first:
+      1: 100030
+    second: Bone012
+  - first:
+      1: 100032
+    second: Bone013
+  - first:
+      1: 100034
+    second: Bone014
+  - first:
+      1: 100036
+    second: Bone015
+  - first:
+      1: 100038
+    second: Bone016
+  - first:
+      1: 100040
+    second: Bone017
+  - first:
+      1: 100042
+    second: Bone018
+  - first:
+      1: 100044
+    second: Bone019
+  - first:
+      1: 100046
+    second: Bone020
+  - first:
+      1: 100048
+    second: Bone021
+  - first:
+      1: 100050
+    second: Bone022
+  - first:
+      1: 100052
+    second: Bone023
+  - first:
+      1: 100054
+    second: Bone024
+  - first:
+      1: 100056
+    second: Bone025
+  - first:
+      1: 100058
+    second: Bone026
+  - first:
+      1: 100060
+    second: Bone027
+  - first:
+      1: 100062
+    second: Bone028
+  - first:
+      1: 100064
+    second: Bone029
+  - first:
+      1: 100066
+    second: Bone030
+  - first:
+      1: 100068
+    second: Bone031
+  - first:
+      1: 100070
+    second: Bone032
+  - first:
+      1: 100072
+    second: Bone033
+  - first:
+      1: 100074
+    second: Bone034
+  - first:
+      1: 100076
+    second: Bone035
+  - first:
+      1: 100078
+    second: Bone036
+  - first:
+      1: 100080
+    second: Bone037
+  - first:
+      1: 100082
+    second: Bone038
+  - first:
+      1: 100084
+    second: Bone039
+  - first:
+      1: 100086
+    second: head
+  - first:
+      1: 100088
+    second: //RootNode
+  - first:
+      1: 100090
+    second: mosquito_LOD0
+  - first:
+      1: 100092
+    second: mosquito_LOD1
+  - first:
+      1: 100094
+    second: prob1
+  - first:
+      1: 100096
+    second: prob2
+  - first:
+      1: 100098
+    second: prob3
+  - first:
+      1: 100100
+    second: thorax
+  - first:
+      1: 100102
+    second: wing left
+  - first:
+      1: 100104
+    second: wing right
+  - first:
+      4: 400000
+    second: abdomen
+  - first:
+      4: 400002
+    second: antleft1
+  - first:
+      4: 400004
+    second: antleft2
+  - first:
+      4: 400006
+    second: antleft3
+  - first:
+      4: 400008
+    second: antright1
+  - first:
+      4: 400010
+    second: antright2
+  - first:
+      4: 400012
+    second: antright3
+  - first:
+      4: 400014
+    second: Bone004
+  - first:
+      4: 400016
+    second: Bone005
+  - first:
+      4: 400018
+    second: Bone006
+  - first:
+      4: 400020
+    second: Bone007
+  - first:
+      4: 400022
+    second: Bone008
+  - first:
+      4: 400024
+    second: Bone009
+  - first:
+      4: 400026
+    second: Bone010
+  - first:
+      4: 400028
+    second: Bone011
+  - first:
+      4: 400030
+    second: Bone012
+  - first:
+      4: 400032
+    second: Bone013
+  - first:
+      4: 400034
+    second: Bone014
+  - first:
+      4: 400036
+    second: Bone015
+  - first:
+      4: 400038
+    second: Bone016
+  - first:
+      4: 400040
+    second: Bone017
+  - first:
+      4: 400042
+    second: Bone018
+  - first:
+      4: 400044
+    second: Bone019
+  - first:
+      4: 400046
+    second: Bone020
+  - first:
+      4: 400048
+    second: Bone021
+  - first:
+      4: 400050
+    second: Bone022
+  - first:
+      4: 400052
+    second: Bone023
+  - first:
+      4: 400054
+    second: Bone024
+  - first:
+      4: 400056
+    second: Bone025
+  - first:
+      4: 400058
+    second: Bone026
+  - first:
+      4: 400060
+    second: Bone027
+  - first:
+      4: 400062
+    second: Bone028
+  - first:
+      4: 400064
+    second: Bone029
+  - first:
+      4: 400066
+    second: Bone030
+  - first:
+      4: 400068
+    second: Bone031
+  - first:
+      4: 400070
+    second: Bone032
+  - first:
+      4: 400072
+    second: Bone033
+  - first:
+      4: 400074
+    second: Bone034
+  - first:
+      4: 400076
+    second: Bone035
+  - first:
+      4: 400078
+    second: Bone036
+  - first:
+      4: 400080
+    second: Bone037
+  - first:
+      4: 400082
+    second: Bone038
+  - first:
+      4: 400084
+    second: Bone039
+  - first:
+      4: 400086
+    second: head
+  - first:
+      4: 400088
+    second: //RootNode
+  - first:
+      4: 400090
+    second: mosquito_LOD0
+  - first:
+      4: 400092
+    second: mosquito_LOD1
+  - first:
+      4: 400094
+    second: prob1
+  - first:
+      4: 400096
+    second: prob2
+  - first:
+      4: 400098
+    second: prob3
+  - first:
+      4: 400100
+    second: thorax
+  - first:
+      4: 400102
+    second: wing left
+  - first:
+      4: 400104
+    second: wing right
+  - first:
+      43: 4300000
+    second: mosquito_LOD0
+  - first:
+      43: 4300002
+    second: mosquito_LOD1
+  - first:
+      74: 7400000
+    second: idle
+  - first:
+      74: 7400002
+    second: fly
+  - first:
+      74: 7400004
+    second: death
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: mosquito_LOD0
+  - first:
+      137: 13700002
+    second: mosquito_LOD1
+  - first:
+      205: 20500000
+    second: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: fea132d924f9191469b639bf99fb02fd, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftHand' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 5
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mosquito_LOD0
+        weight: 1
+      - path: mosquito_LOD1
+        weight: 1
+      - path: thorax
+        weight: 1
+      - path: thorax/abdomen
+        weight: 1
+      - path: thorax/Bone004
+        weight: 1
+      - path: thorax/Bone004/Bone005
+        weight: 1
+      - path: thorax/Bone004/Bone005/Bone006
+        weight: 1
+      - path: thorax/Bone004/Bone005/Bone006/Bone007
+        weight: 1
+      - path: thorax/Bone004/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: thorax/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: thorax/Bone010
+        weight: 1
+      - path: thorax/Bone010/Bone011
+        weight: 1
+      - path: thorax/Bone010/Bone011/Bone012
+        weight: 1
+      - path: thorax/Bone010/Bone011/Bone012/Bone013
+        weight: 1
+      - path: thorax/Bone010/Bone011/Bone012/Bone013/Bone014
+        weight: 1
+      - path: thorax/Bone010/Bone011/Bone012/Bone013/Bone014/Bone015
+        weight: 1
+      - path: thorax/Bone016
+        weight: 1
+      - path: thorax/Bone016/Bone017
+        weight: 1
+      - path: thorax/Bone016/Bone017/Bone018
+        weight: 1
+      - path: thorax/Bone016/Bone017/Bone018/Bone019
+        weight: 1
+      - path: thorax/Bone016/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: thorax/Bone016/Bone017/Bone018/Bone019/Bone020/Bone021
+        weight: 1
+      - path: thorax/Bone022
+        weight: 1
+      - path: thorax/Bone022/Bone023
+        weight: 1
+      - path: thorax/Bone022/Bone023/Bone024
+        weight: 1
+      - path: thorax/Bone022/Bone023/Bone024/Bone025
+        weight: 1
+      - path: thorax/Bone022/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: thorax/Bone022/Bone023/Bone024/Bone025/Bone026/Bone027
+        weight: 1
+      - path: thorax/Bone028
+        weight: 1
+      - path: thorax/Bone028/Bone029
+        weight: 1
+      - path: thorax/Bone028/Bone029/Bone030
+        weight: 1
+      - path: thorax/Bone028/Bone029/Bone030/Bone031
+        weight: 1
+      - path: thorax/Bone028/Bone029/Bone030/Bone031/Bone032
+        weight: 1
+      - path: thorax/Bone028/Bone029/Bone030/Bone031/Bone032/Bone033
+        weight: 1
+      - path: thorax/Bone034
+        weight: 1
+      - path: thorax/Bone034/Bone035
+        weight: 1
+      - path: thorax/Bone034/Bone035/Bone036
+        weight: 1
+      - path: thorax/Bone034/Bone035/Bone036/Bone037
+        weight: 1
+      - path: thorax/Bone034/Bone035/Bone036/Bone037/Bone038
+        weight: 1
+      - path: thorax/Bone034/Bone035/Bone036/Bone037/Bone038/Bone039
+        weight: 1
+      - path: thorax/head
+        weight: 1
+      - path: thorax/head/antleft1
+        weight: 1
+      - path: thorax/head/antleft1/antleft2
+        weight: 1
+      - path: thorax/head/antleft1/antleft2/antleft3
+        weight: 1
+      - path: thorax/head/antright1
+        weight: 1
+      - path: thorax/head/antright1/antright2
+        weight: 1
+      - path: thorax/head/antright1/antright2/antright3
+        weight: 1
+      - path: thorax/head/prob1
+        weight: 1
+      - path: thorax/head/prob1/prob2
+        weight: 1
+      - path: thorax/head/prob1/prob2/prob3
+        weight: 1
+      - path: thorax/wing left
+        weight: 1
+      - path: thorax/wing right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fly
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 105
+      lastFrame: 141
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mosquito_LOD0
+        weight: 1
+      - path: mosquito_LOD1
+        weight: 1
+      - path: thorax
+        weight: 1
+      - path: thorax/abdomen
+        weight: 1
+      - path: thorax/Bone004
+        weight: 1
+      - path: thorax/Bone004/Bone005
+        weight: 1
+      - path: thorax/Bone004/Bone005/Bone006
+        weight: 1
+      - path: thorax/Bone004/Bone005/Bone006/Bone007
+        weight: 1
+      - path: thorax/Bone004/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: thorax/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: thorax/Bone010
+        weight: 1
+      - path: thorax/Bone010/Bone011
+        weight: 1
+      - path: thorax/Bone010/Bone011/Bone012
+        weight: 1
+      - path: thorax/Bone010/Bone011/Bone012/Bone013
+        weight: 1
+      - path: thorax/Bone010/Bone011/Bone012/Bone013/Bone014
+        weight: 1
+      - path: thorax/Bone010/Bone011/Bone012/Bone013/Bone014/Bone015
+        weight: 1
+      - path: thorax/Bone016
+        weight: 1
+      - path: thorax/Bone016/Bone017
+        weight: 1
+      - path: thorax/Bone016/Bone017/Bone018
+        weight: 1
+      - path: thorax/Bone016/Bone017/Bone018/Bone019
+        weight: 1
+      - path: thorax/Bone016/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: thorax/Bone016/Bone017/Bone018/Bone019/Bone020/Bone021
+        weight: 1
+      - path: thorax/Bone022
+        weight: 1
+      - path: thorax/Bone022/Bone023
+        weight: 1
+      - path: thorax/Bone022/Bone023/Bone024
+        weight: 1
+      - path: thorax/Bone022/Bone023/Bone024/Bone025
+        weight: 1
+      - path: thorax/Bone022/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: thorax/Bone022/Bone023/Bone024/Bone025/Bone026/Bone027
+        weight: 1
+      - path: thorax/Bone028
+        weight: 1
+      - path: thorax/Bone028/Bone029
+        weight: 1
+      - path: thorax/Bone028/Bone029/Bone030
+        weight: 1
+      - path: thorax/Bone028/Bone029/Bone030/Bone031
+        weight: 1
+      - path: thorax/Bone028/Bone029/Bone030/Bone031/Bone032
+        weight: 1
+      - path: thorax/Bone028/Bone029/Bone030/Bone031/Bone032/Bone033
+        weight: 1
+      - path: thorax/Bone034
+        weight: 1
+      - path: thorax/Bone034/Bone035
+        weight: 1
+      - path: thorax/Bone034/Bone035/Bone036
+        weight: 1
+      - path: thorax/Bone034/Bone035/Bone036/Bone037
+        weight: 1
+      - path: thorax/Bone034/Bone035/Bone036/Bone037/Bone038
+        weight: 1
+      - path: thorax/Bone034/Bone035/Bone036/Bone037/Bone038/Bone039
+        weight: 1
+      - path: thorax/head
+        weight: 1
+      - path: thorax/head/antleft1
+        weight: 1
+      - path: thorax/head/antleft1/antleft2
+        weight: 1
+      - path: thorax/head/antleft1/antleft2/antleft3
+        weight: 1
+      - path: thorax/head/antright1
+        weight: 1
+      - path: thorax/head/antright1/antright2
+        weight: 1
+      - path: thorax/head/antright1/antright2/antright3
+        weight: 1
+      - path: thorax/head/prob1
+        weight: 1
+      - path: thorax/head/prob1/prob2
+        weight: 1
+      - path: thorax/head/prob1/prob2/prob3
+        weight: 1
+      - path: thorax/wing left
+        weight: 1
+      - path: thorax/wing right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: death
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 145
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mosquito_LOD0
+        weight: 1
+      - path: mosquito_LOD1
+        weight: 1
+      - path: thorax
+        weight: 1
+      - path: thorax/abdomen
+        weight: 1
+      - path: thorax/Bone004
+        weight: 1
+      - path: thorax/Bone004/Bone005
+        weight: 1
+      - path: thorax/Bone004/Bone005/Bone006
+        weight: 1
+      - path: thorax/Bone004/Bone005/Bone006/Bone007
+        weight: 1
+      - path: thorax/Bone004/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: thorax/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: thorax/Bone010
+        weight: 1
+      - path: thorax/Bone010/Bone011
+        weight: 1
+      - path: thorax/Bone010/Bone011/Bone012
+        weight: 1
+      - path: thorax/Bone010/Bone011/Bone012/Bone013
+        weight: 1
+      - path: thorax/Bone010/Bone011/Bone012/Bone013/Bone014
+        weight: 1
+      - path: thorax/Bone010/Bone011/Bone012/Bone013/Bone014/Bone015
+        weight: 1
+      - path: thorax/Bone016
+        weight: 1
+      - path: thorax/Bone016/Bone017
+        weight: 1
+      - path: thorax/Bone016/Bone017/Bone018
+        weight: 1
+      - path: thorax/Bone016/Bone017/Bone018/Bone019
+        weight: 1
+      - path: thorax/Bone016/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: thorax/Bone016/Bone017/Bone018/Bone019/Bone020/Bone021
+        weight: 1
+      - path: thorax/Bone022
+        weight: 1
+      - path: thorax/Bone022/Bone023
+        weight: 1
+      - path: thorax/Bone022/Bone023/Bone024
+        weight: 1
+      - path: thorax/Bone022/Bone023/Bone024/Bone025
+        weight: 1
+      - path: thorax/Bone022/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: thorax/Bone022/Bone023/Bone024/Bone025/Bone026/Bone027
+        weight: 1
+      - path: thorax/Bone028
+        weight: 1
+      - path: thorax/Bone028/Bone029
+        weight: 1
+      - path: thorax/Bone028/Bone029/Bone030
+        weight: 1
+      - path: thorax/Bone028/Bone029/Bone030/Bone031
+        weight: 1
+      - path: thorax/Bone028/Bone029/Bone030/Bone031/Bone032
+        weight: 1
+      - path: thorax/Bone028/Bone029/Bone030/Bone031/Bone032/Bone033
+        weight: 1
+      - path: thorax/Bone034
+        weight: 1
+      - path: thorax/Bone034/Bone035
+        weight: 1
+      - path: thorax/Bone034/Bone035/Bone036
+        weight: 1
+      - path: thorax/Bone034/Bone035/Bone036/Bone037
+        weight: 1
+      - path: thorax/Bone034/Bone035/Bone036/Bone037/Bone038
+        weight: 1
+      - path: thorax/Bone034/Bone035/Bone036/Bone037/Bone038/Bone039
+        weight: 1
+      - path: thorax/head
+        weight: 1
+      - path: thorax/head/antleft1
+        weight: 1
+      - path: thorax/head/antleft1/antleft2
+        weight: 1
+      - path: thorax/head/antleft1/antleft2/antleft3
+        weight: 1
+      - path: thorax/head/antright1
+        weight: 1
+      - path: thorax/head/antright1/antright2
+        weight: 1
+      - path: thorax/head/antright1/antright2/antright3
+        weight: 1
+      - path: thorax/head/prob1
+        weight: 1
+      - path: thorax/head/prob1/prob2
+        weight: 1
+      - path: thorax/head/prob1/prob2/prob3
+        weight: 1
+      - path: thorax/wing left
+        weight: 1
+      - path: thorax/wing right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.40027934
+    - 0.0955699
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: mosquito(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mosquito_LOD0
+      parentName: mosquito(Clone)
+      position: {x: 0.0000011489966, y: 0, z: 0}
+      rotation: {x: -0.000000053385083, y: 0.7071068, z: 0.7071068, w: 0.000000053385083}
+      scale: {x: 2.518975, y: 2.518975, z: 2.518975}
+    - name: mosquito_LOD1
+      parentName: mosquito(Clone)
+      position: {x: 0.0000011489966, y: 0, z: 0}
+      rotation: {x: -0.000000053385083, y: 0.7071068, z: 0.7071068, w: 0.000000053385083}
+      scale: {x: 2.518975, y: 2.518975, z: 2.518975}
+    - name: thorax
+      parentName: mosquito(Clone)
+      position: {x: 0.010522432, y: 0.28594255, z: -0.01342275}
+      rotation: {x: 0.59175223, y: 0.8023567, z: 0.05862675, w: -0.051146604}
+      scale: {x: 2.5188353, y: 2.5188353, z: 2.5188353}
+    - name: Bone034
+      parentName: thorax
+      position: {x: -0.027004855, y: 0.0023398732, z: -0.00522542}
+      rotation: {x: 0.000000029336661, y: -0.00000006263144, z: -0.70177066, w: 0.71240294}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: Bone035
+      parentName: Bone034
+      position: {x: -0.015930818, y: 0.000000057220458, z: 0.000000009536743}
+      rotation: {x: 5.456968e-12, y: 4.656613e-10, z: -0.0011076923, w: 0.9999994}
+      scale: {x: 1.000001, y: 1.0000007, z: 1.0000002}
+    - name: Bone036
+      parentName: Bone035
+      position: {x: -0.037370536, y: 0.0000000023841857, z: 0}
+      rotation: {x: -0, y: -2.3283062e-10, z: -0.0035371701, w: 0.9999938}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000002}
+    - name: Bone037
+      parentName: Bone036
+      position: {x: -0.041679762, y: 0.00000017642975, z: 0}
+      rotation: {x: -2.220446e-16, y: -2.8654767e-10, z: -0.002872464, w: 0.99999595}
+      scale: {x: 0.64930207, y: 1, z: 0.9999998}
+    - name: Bone038
+      parentName: Bone037
+      position: {x: -0.0709024, y: -0.0000000023841857, z: 0.000000009536743}
+      rotation: {x: -0, y: -0, z: -0.0012916378, w: 0.9999992}
+      scale: {x: 0.99999917, y: 1.0000019, z: 1.0000004}
+    - name: Bone039
+      parentName: Bone038
+      position: {x: -0.0715049, y: -0.00000013113022, z: 0}
+      rotation: {x: -0, y: -0, z: 0.0025784161, w: 0.99999666}
+      scale: {x: 0.9999716, y: 1.0000193, z: 1}
+    - name: Bone028
+      parentName: thorax
+      position: {x: -0.019938579, y: 0.00245964, z: -0.008177438}
+      rotation: {x: -4.656613e-10, y: -0.000000018626451, z: -0.69606304, w: 0.71798074}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: Bone029
+      parentName: Bone028
+      position: {x: -0.01545742, y: -0.0000000011920929, z: 0}
+      rotation: {x: 0.000000089408786, y: -0.0000000013969839, z: -0.013901029, w: 0.99990344}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000002}
+    - name: Bone030
+      parentName: Bone029
+      position: {x: -0.03748805, y: -0.0000000023841857, z: 0}
+      rotation: {x: -0.000000029802546, y: 2.3283062e-10, z: 0.00272536, w: 0.9999963}
+      scale: {x: 1.0000008, y: 1.000001, z: 1.0000001}
+    - name: Bone031
+      parentName: Bone030
+      position: {x: -0.041560173, y: 0.0000000077486035, z: 0}
+      rotation: {x: -0.00000002980684, y: -3.8175635e-10, z: 0.00772302, w: 0.99997026}
+      scale: {x: 1.0000011, y: 1.0000006, z: 1.0000008}
+    - name: Bone032
+      parentName: Bone031
+      position: {x: -0.009943542, y: 5.9604643e-10, z: 0}
+      rotation: {x: 0.000000017909846, y: -0.000000004589955, z: -0.006232193, w: 0.99998057}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.0000008}
+    - name: Bone033
+      parentName: Bone032
+      position: {x: -0.010300693, y: 0, z: 0.000000009536743}
+      rotation: {x: -0.0000000069276584, y: 0.000000006403688, z: -0.011765445, w: 0.9999308}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000004}
+    - name: Bone022
+      parentName: thorax
+      position: {x: -0.01167463, y: 0.002220105, z: -0.008177438}
+      rotation: {x: -2.3283062e-10, y: -0.00000001536682, z: -0.7014279, w: 0.7127405}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000001}
+    - name: Bone023
+      parentName: Bone022
+      position: {x: -0.0149729485, y: -0.00000005483627, z: -0.000000009536743}
+      rotation: {x: 0.00000008941059, y: -4.6566123e-10, z: -0.0017309149, w: 0.9999985}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Bone024
+      parentName: Bone023
+      position: {x: -0.038208712, y: 0.000000069141386, z: 0}
+      rotation: {x: -0.000000089407884, y: -0, z: -0.0033774346, w: 0.99999434}
+      scale: {x: 1.0000006, y: 0.99999994, z: 0.99999976}
+    - name: Bone025
+      parentName: Bone024
+      position: {x: -0.041440144, y: 0.000000047683713, z: 0}
+      rotation: {x: 0.00000005960668, y: -3.4201986e-10, z: -0.0028886753, w: 0.9999958}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000004}
+    - name: Bone026
+      parentName: Bone025
+      position: {x: -0.009940681, y: 0, z: -0.000000009536743}
+      rotation: {x: -0.000000016524583, y: -0.0000000015498572, z: -0.011627867, w: 0.99993247}
+      scale: {x: 1.0000017, y: 1.0000007, z: 1.0000011}
+    - name: Bone027
+      parentName: Bone026
+      position: {x: -0.010302791, y: 0, z: 0}
+      rotation: {x: 0.000000003948847, y: -0.0000000029752028, z: 0.023386272, w: 0.9997266}
+      scale: {x: 1.0000012, y: 1.0000007, z: 1.0000005}
+    - name: head
+      parentName: thorax
+      position: {x: 0.0020945442, y: -0.00011976957, z: -0.0022110844}
+      rotation: {x: -0.20785694, y: 0.054744825, z: -0.97255504, w: 0.089080065}
+      scale: {x: 1.4679838, y: 1.0000004, z: 1}
+    - name: antleft1
+      parentName: head
+      position: {x: -0.005386563, y: 0.002145012, z: 0.0033191626}
+      rotation: {x: 0.6966192, y: -0.6722638, z: -0.1278773, w: -0.21547745}
+      scale: {x: 0.99804413, y: 0.6853286, z: 0.99326545}
+    - name: antleft2
+      parentName: antleft1
+      position: {x: -0.007876468, y: -0.0000000047683715, z: 9.589937e-10}
+      rotation: {x: 0.00022435928, y: 0.10853585, z: 0.009050338, w: 0.99405134}
+      scale: {x: 0.9830899, y: 1.0190027, z: 0.9985239}
+    - name: antleft3
+      parentName: antleft2
+      position: {x: -0.010364208, y: 0.000000007152557, z: 0.0000000011534251}
+      rotation: {x: 0.0106929485, y: 0.010688861, z: 0.098772585, w: 0.99499524}
+      scale: {x: 0.9730158, y: 1.0315279, z: 0.9967113}
+    - name: prob1
+      parentName: head
+      position: {x: -0.010930169, y: -0.00038919685, z: 0.0015881585}
+      rotation: {x: 0.6580226, y: -0.25047678, z: -0.25733006, w: -0.6618526}
+      scale: {x: 0.73427665, y: 1.0727563, z: 0.9999936}
+    - name: prob2
+      parentName: prob1
+      position: {x: -0.01567992, y: 0.0000000047683715, z: 0.0000000017704652}
+      rotation: {x: 0.00000020861626, y: -0.00000086426735, z: 0.00021380186, w: 1}
+      scale: {x: 1.0883547, y: 0.9997244, z: 1.0000002}
+    - name: prob3
+      parentName: prob2
+      position: {x: -0.016816124, y: 0, z: 0.0000000018984088}
+      rotation: {x: -0.00009089709, y: 0.00039256742, z: -0.08812725, w: 0.9961092}
+      scale: {x: 0.9980919, y: 1.0015004, z: 0.9999999}
+    - name: antright1
+      parentName: head
+      position: {x: -0.005360502, y: -0.0033437791, z: 0.0038774998}
+      rotation: {x: -0.018041132, y: 0.03415868, z: 0.72876006, w: 0.6836787}
+      scale: {x: 0.9982959, y: 0.6848685, z: 0.99396425}
+    - name: antright2
+      parentName: antright1
+      position: {x: -0.007334604, y: 0.000000114440915, z: 7.066606e-10}
+      rotation: {x: 0.0054588933, y: -0.104800016, z: 0.009875188, w: 0.9944293}
+      scale: {x: 0.98482335, y: 1.0169445, z: 0.9987242}
+    - name: antright3
+      parentName: antright2
+      position: {x: -0.009707928, y: -0.0000000023841857, z: 7.612482e-10}
+      rotation: {x: -0.014585878, y: -0.013855096, z: 0.13016501, w: 0.9912883}
+      scale: {x: 0.96722364, y: 1.038846, z: 0.9958293}
+    - name: abdomen
+      parentName: thorax
+      position: {x: -0.034253474, y: 0.000000005578622, z: 0}
+      rotation: {x: -0.00016953051, y: -0.09997211, z: -0.0016867518, w: 0.99498886}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: Bone016
+      parentName: thorax
+      position: {x: -0.026993291, y: -0.0020791648, z: -0.00522542}
+      rotation: {x: 0.000000059604645, y: 0.000000029802322, z: -0.70710665, w: -0.7071069}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.9999998}
+    - name: Bone017
+      parentName: Bone016
+      position: {x: -0.015330219, y: 0.000000059604645, z: 0}
+      rotation: {x: 1.9717207e-10, y: 6.0100197e-10, z: -0.009491445, w: 0.999955}
+      scale: {x: 0.99999994, y: 1.0000006, z: 1.0000005}
+    - name: Bone018
+      parentName: Bone017
+      position: {x: -0.037852637, y: 0.000000028610229, z: 0}
+      rotation: {x: 0.00000008940697, y: 4.656613e-10, z: 0.0066268877, w: 0.99997807}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
+    - name: Bone019
+      parentName: Bone018
+      position: {x: -0.041800212, y: 0.000000007152557, z: 0}
+      rotation: {x: -0.00000008940697, y: -1.1641532e-10, z: 0.002865073, w: 0.99999595}
+      scale: {x: 0.6402559, y: 0.99999994, z: 0.99999964}
+    - name: Bone020
+      parentName: Bone019
+      position: {x: -0.070422664, y: 0, z: 0.000000009536743}
+      rotation: {x: -0, y: 7.1054274e-15, z: -0.00000013654355, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: Bone021
+      parentName: Bone020
+      position: {x: -0.072099835, y: -0.0000000023841857, z: 0.000000009536743}
+      rotation: {x: -0, y: -1.7278623e-10, z: 0.0026298692, w: 0.99999654}
+      scale: {x: 0.99999064, y: 1.0000061, z: 1.0000004}
+    - name: Bone010
+      parentName: thorax
+      position: {x: -0.020286314, y: -0.0019594007, z: -0.008177438}
+      rotation: {x: -0.059648734, y: 0.060317967, z: -0.22361147, w: -0.9709798}
+      scale: {x: 0.9999994, y: 0.99999964, z: 1.0000002}
+    - name: Bone011
+      parentName: Bone010
+      position: {x: -0.01521223, y: 5.9604643e-10, z: 0}
+      rotation: {x: 0.000000042111967, y: 2.9778666e-10, z: 0.001604527, w: 0.9999987}
+      scale: {x: 1, y: 1.0000007, z: 1.0000005}
+    - name: Bone012
+      parentName: Bone011
+      position: {x: -0.038208943, y: 0.0000000023841857, z: 0}
+      rotation: {x: -0.00000008940696, y: -2.3283062e-10, z: 0.0033952259, w: 0.9999943}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000004}
+    - name: Bone013
+      parentName: Bone012
+      position: {x: -0.041679725, y: -0.000000005364418, z: -0.000000009536743}
+      rotation: {x: 0.48253074, y: -0.35142148, z: 0.47400883, w: 0.6472887}
+      scale: {x: 0.9999995, y: 0.99999994, z: 0.99999994}
+    - name: Bone014
+      parentName: Bone013
+      position: {x: -0.01006113, y: 0.0000000017881393, z: -0.000000009536743}
+      rotation: {x: 0.00000008940496, y: -6.5628614e-12, z: -0.012125231, w: 0.99992657}
+      scale: {x: 0.99999994, y: 1.0000007, z: 1.0000011}
+    - name: Bone015
+      parentName: Bone014
+      position: {x: -0.009700928, y: -0.000000012516975, z: 0}
+      rotation: {x: -0.000000042520043, y: 1.15875635e-10, z: 0.017794846, w: 0.9998417}
+      scale: {x: 1.0000005, y: 1.0000011, z: 1.0000006}
+    - name: Bone004
+      parentName: thorax
+      position: {x: -0.011483413, y: -0.001989503, z: -0.008177438}
+      rotation: {x: 0.000000029802322, y: -0, z: -0.6985379, w: -0.7155731}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+    - name: Bone005
+      parentName: Bone004
+      position: {x: -0.014915194, y: 0.000000014305114, z: 0.000000009536743}
+      rotation: {x: 0.0005220609, y: -0.079559624, z: -0.47224993, w: 0.8778668}
+      scale: {x: 1, y: 1.0000006, z: 1.0000005}
+    - name: Bone006
+      parentName: Bone005
+      position: {x: -0.038208254, y: 0.000000009536743, z: -0.000000009536743}
+      rotation: {x: 0.000000029802319, y: -0, z: 0.00046396203, w: 0.9999999}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.99999976}
+    - name: Bone007
+      parentName: Bone006
+      position: {x: -0.041740894, y: 0.000000085830685, z: 0}
+      rotation: {x: 0.4303347, y: -0.34869805, z: 0.45904523, w: 0.6946216}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1.0000002}
+    - name: Bone008
+      parentName: Bone007
+      position: {x: -0.010062084, y: 0, z: 0.000000009536743}
+      rotation: {x: 0.00000007201815, y: -2.0717111e-10, z: -0.017753636, w: 0.9998424}
+      scale: {x: 1, y: 1.0000005, z: 1.0000002}
+    - name: Bone009
+      parentName: Bone008
+      position: {x: -0.010181083, y: 0.000000015497207, z: -0.000000009536743}
+      rotation: {x: -0.00000008479392, y: -2.369997e-10, z: 0.023966737, w: 0.9997128}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: wing right
+      parentName: thorax
+      position: {x: -0.022577595, y: 0.004072145, z: 0.015399112}
+      rotation: {x: 0.000000029685907, y: -0.000000068335794, z: -0.7044397, w: 0.70976394}
+      scale: {x: 1.000001, y: 1.0000006, z: 1.0000002}
+    - name: wing left
+      parentName: thorax
+      position: {x: -0.022817126, y: -0.004670841, z: 0.015399112}
+      rotation: {x: 0.000000029802322, y: -0, z: -0.7022473, w: -0.71193314}
+      scale: {x: 0.9999999, y: 1.0000005, z: 1.0000002}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

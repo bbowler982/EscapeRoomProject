@@ -1,0 +1,164 @@
+Brendan Bowler
+Computer Science
+Special Topics Final Submission
+5/5/2021
+
+Division of labor among team members:
+
+For our project I have included a little write up from everyone in the group on their roles exactly. 
+
+Brendan Bowler-
+For this project, being the only CS member and person with a headset on the team, my role consisted
+primarily of doing the scripting, setting up all the interactivty, and testing everything. On the scripting
+side of things, I wrote scripts to attach the chair to the player almost like they are tied to it, and it will
+release them when they grab the appropriate object. Tt slows their movement until they get out. I also set up
+scripts for the transitions to all the rooms, such as sliding a vent when we drop the correct key in the
+slot, which then lowers the players height almost like thier crouching for a limited time and then returns
+them back to standing height, so that they can get to the next room. The other doors have scripts that open them
+when a flashlight is grabbed and when another key is entered into the dropbox. All of the scripts are in the assets folder. Apart from the scripting a large
+amount of my time was spent on setting up the house and making sure every object had an appropriate box collider
+and rigid body, or grabbale script. The whole house had to be layed out with colliders so that it was walkable, and a lot of objects
+were tricky to fit colliders to their shape. I also spent some time in the beginning of the year just getting 
+the project setup with the headset and integrated with oculus. Finally I spent a lot of time on testing everything.
+Unity can be a bit buggy and all the time I would find myself spending hours debugging errors when I pulled in new
+changes to the project. Making sure that everything interacted the way I wanted to, moved the way I wanted it to,
+and overall worked the way I wanted it to took some time. I was able to provide feedback to my groupmates about 
+things they had created and how they could be changed becuase I was the only one actually able to see everything
+in the game.
+
+Aidan Schmidt-
+Hello, I’m Aidan Schmidt from NotSoHugeMassLowell. This project was a blast to work 
+on especially with such motivated and involved teammates. My main role in this project was 
+modeling and texturing various assets - it was great practice for 3D work and I’m very glad I was 
+able to contribute something while working on a skill that I need to hone.
+In regards to the work I did for this project - I modeled and textured the interior of the 
+house, the exterior landscape that the player rides through in the end of the game, the hanging 
+fluorescent lights and the interior and exterior of the police car. I also worked with Durwin to 
+record voice lines for the police men.
+Ideating for this project was definitely one of my favorite steps, off the bat it felt like 
+everybody on the team was on the same page and it was a lot of fun to communicate different 
+ideas for the game and to problem solve ways to get our ideas across (for example, we 
+originally leaned towards an event that would tie things together in the end where the player 
+gets tackled to the ground and sees their own reflection in a puddle - but we realized it would be 
+jarring in VR to suddenly go horizontal so instead we opted for a cutscene with dialogue from 
+the police). I found this type of problem solving to be very engaging. Over all, I’ve had a very 
+positive experience with this project.
+
+Durwin Wongwajarachot-
+Heyo, it’s Durwin Wongwajarachot from NotSoHugeMassLowell (formerly HugeMassLowell). I
+worked on the models for interactables and furniture such as keys and the TV. My more unique
+role on the team was working on voice lines for the main character, the “kidnapper”, the cops,
+and also the familiar voice on the TV. I altered the voice lines with filters in Audacity to make
+them fit in with the environment they would be said in, an example being a more echoey effect
+when the character says lines in a vent or when they say lines outside. I took voice samples
+from myself, Aidan, and Misha, which I think in the end really set the atmosphere so it didn’t just
+sound like one person acting as all the characters. Furthermore, I think that our team did a really
+good job setting up a dark ambience for the mood of a story where the main character fails to
+kidnap someone and has to play his game instead. It’s a novel subverted trope that means the
+game could just as easily have been purely comedic and cartoony if we decided to go with that
+route instead. Thank you for reading!
+
+Megan LeBaron-
+As a member of the “NotSoHugeMass”, my only contribution was for modeling assets such as
+the fly, flashlight, lightswitch, Hamper, And broken piece of rope. Aside from spending multiple
+days trying to find how to fix my modeled and animated fly’s wing, I would say what I struggled
+with the most is my overall access with the Unity file. Originally I realized I was using an older
+file from github and had to redownload the cloud version of it from our Unity Colloborate,
+however, soon I and some other of my teammates would experience errors such as missing
+scripts/behaviors and assets. The only experience I got with C# was with adding A floater script
+to the fly that enabled it to fly up and down. My final contribution was adding the scrolling end
+credits simply with Gamobject. UI, snd then a raw image with some text and animation
+
+Jordan Deaza-
+Hello,
+This is Jordan from Notsohugemasslowell, the things that i worked on for this project were the
+red lamp model, the bathroom trilamp, the crate and boiler in the basement, the detergent in the
+kitchen/laundry room, as well as a “boob lamp” in various different rooms. As you can probably
+tell from all the lights I worked on lighting the map making sure that the light color and intensity
+would match the room's aesthetic. I also found a couple sounds for the team to use although i'm
+not sure which ones have made it through, i only installed the clock sound in scene 1.
+As for other scenes I worked on The main menu screen, added the button the sounds, and the
+video in the background which was a recording of the basement lights. I also added the sound
+to the video in that scene. I think that's everything. Thank you for reading.
+
+Hayley Cook-
+Kidnapped was an immensely difficult, stressful, and yet incredibly rewarding project my
+team “NotSoHugeMassLowell” worked on and completed for the Spring of 2021’s Interactive
+media class.
+As part of this group I was primarily responsible for a few things. The first and probably
+most important being a leadership position. I devised the schedule, made sure everything was
+on track and kept up with current issues (usually if not ALWAYS involving scripting). This meant
+keeping organized and keeping everyone on track, which was in and of itself both extremely
+stressful and challenging.
+I also participated in modeling, texturing, and animating the dog model, as well as a few
+other assets. I also curated a few assets for our game. Besides this, I animated and scripted the
+cutscenes, using C# as well as some Mixamo animations. And furthermore, participated in some
+more scripts involving animation triggers, and whatnot.
+In this whole experience I would say the most challenging part was trying to equally facilitate
+division of labor, as I wanted people to want to do certain tasks, and I also wanted folks to have
+relatively equal footing when it came to the game.
+All in all I believe the execution of this game, though challenging and technically frustrating, was
+all in all very rewarding. As I believe our concept and execution came out decent, despite issues
+with the Unity VR integration
+
+
+
+Link to githug repository:
+
+Problems/AlternativeApproaches:
+
+Througout this project I consistently found myself battling build errors, problems when I would pull in new changes from my groupmates,
+and some problems that I was never able to actually resolve. This project taught me a lot about debugging and how
+to overcome issues that you may not be able to solve yourslef. One of main examples, is getting the OVRInput setup
+with the oculus controllers. I simply wanted to detect when a button had been hit and it would not work. The code was only 
+a few lines but no matter what I tried nothing would work. I looked on forumns, posted my own questions, read everything I could about
+the issue to find out that many people come across this and that sometimes there isnt a fix. After spending days working on this issue
+I decided it might be better to write a script that would instead use a time waiting sequence to perform what I needed instead of the 
+OVRInput. In addition to issues like that, I would find that a lot of times when I pulled in changes my groupmates made, it would cause a lot
+of issues on my end. At one point I had about 6 scripts I had written deleted, and could not get back. Assets would be added
+but their setting wouldn't be set correctly for the project, so when they were added it would cause errors, but only I would know becuase I was
+the only one who could run the project on the headset. At one point all the box colliders, and rigid bodies I had added for every object were deleted
+and I had to go through and re add them all. I found a lot of my time was spent fixing errors after I had pulled in changes, or fixing errors that
+shouldnt have happened in the first place. Being the only person with the headset was not easy becuase I dont think my groupmates realzied that the versions
+of the projects they had locally with new changes would screw things up on my end becuase they never built the project with Oculus which would complain about
+a lot more things. 
+
+
+Build/Launch Instructions:
+
+To switch the build settings to Oculus:
+
+In the menu, go to File and select Build Settings.
+Under Platform, select Android.
+Set Texture Compression to ASTC.
+In Run Device, select the Oculus device to run the app in the Oculus device. Your device is listed only if it is connected to your computer over USB. This is an optional step and is usually helpful to test the app on a real device.
+Clear the Development Build selection for the final build as it may impact performance.
+Click Switch Platform.
+
+
+To enable virtual reality support:
+
+From the menu, go to Edit > Project Settings.
+From the left navigation pane, select XR Plugin Management, and click Install XR Plugin Management.
+Click the Windows tab and select Oculus to install the Oculus XR plugin, which enables the VR support.
+From the left navigation pane, under XR Plugin Management, click Oculus to open and modify the default settings.
+From the menu, go to Edit > Project Settings.
+From the left navigation pane, select XR Plugin Management, and click Install XR Plugin Management.
+Click the Android tab and select Oculus to install the Oculus XR plugin, which enables the VR support.
+From the left navigation pane, under XR Plugin Management, click Oculus to open and modify the default settings.
+Note: In case, you’ve not installed the Oculus Integration package as described in Import Oculus Integration Package, install it to fully use Oculus VR features. Installing Oculus XR Plugin doesn’t install the Oculus Integration package.
+Use built-in XR platform integration:
+From the menu, go to Edit > Project Settings > Player > Windows tab.
+Expand XR Settings and select Virtual Reality Supported. Under Virtual Reality SDKs, you should be able to view Oculus.
+From the menu, go to Edit > Project Settings > Player > Android tab.
+Expand XR Settings and select Virtual Reality Supported. Under Virtual Reality SDKs, you should be able to view Oculus.
+
+How to use the project:
+The project is pretty simple in terms of finding your way through the game. In the first room where you start
+you will be attached to a chair. Once you move over and grab the rope, you will be released from the chair. Then you have to find the dog key
+and drop it in the drop box to open the vent. After droppping it in the dropbox, the vent will slide open and your player will crouch
+for about 20 seconds giving you time to crawl through the vent and get to the next room where you will be returned to normal height.
+After getting to that room, you have to find the key and drop it in the drop box in the kitchen whitch will open the door and allow you access
+to the bathroom and bedroom. In the bathroom once you find and grab the flashlight the last door will open allowing you to start the end scene. 
+Once you walk on the rug in the living room area at the end of the hall the scene will start.
+
